@@ -1,0 +1,5 @@
+ToolSet: 6.0 w64 (local)@F:\C\minGW64_6.0
+Ninja: 1.12.1@F:\jetbrains\clion\data\CLion 2023.2.2\bin\ninja\win\x64\ninja.exe
+Options: 
+
+Options:-DCMAKE_MAKE_PROGRAM=F:/jetbrains/clion/data/CLion 2023.2.2/bin/ninja/win/x64/ninja.exe
